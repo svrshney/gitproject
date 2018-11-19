@@ -1,0 +1,2 @@
+# gitproject
+Core java project
